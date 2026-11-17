@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+bin/
+out/
+target/
+
+# Log files
+*.log
+
+# Data persistence store (optional, allow fresh seeds on clone)
+data/*.dat
+
+# IDE / Editor configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
