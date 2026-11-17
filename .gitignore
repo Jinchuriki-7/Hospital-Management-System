@@ -18,6 +18,5 @@ data/*.dat
 .project
 .classpath
 
-# OS files
-.DS_Store
-Thumbs.db
+# Sub-clones / External repos
+MedCore/
